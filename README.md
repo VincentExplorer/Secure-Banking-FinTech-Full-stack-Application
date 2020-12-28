@@ -1,3 +1,9 @@
+Hello everyone! Welcome Vincent's school project. 
+
+I am currenly looking for full-stack web developer internship or full-time jobs. 
+
+If you want to help me, please write me email at Wencheng.zhao@baruchmail.cuny.edu, much appreciated!   
+
 # mern-plaid
 
 ![Final App](https://i.postimg.cc/tJYRKQPR/mern-Plaid-Final.gif)
@@ -10,10 +16,6 @@ This project uses the following technologies:
 - [MongoDB](https://www.mongodb.com/) for the database
 - [Redux](https://redux.js.org/basics/usagewithreact) for global state management
 - [Plaid](https://plaid.com) for bank account linkage and transaction data
-
-## Medium Post
-
-- [Build a Full Stack Banking Web App with Plaid & the MERN Stack](https://medium.com/@rishipr/build-a-fullstack-banking-web-app-with-plaid-the-mern-stack-508914ce5694)
 
 ## Configuration
 
