@@ -2,7 +2,7 @@ Hello everyone! Welcome Vincent's school project.
 
 I am currenly looking for full-stack web developer internship or full-time jobs. 
 
-If you want to help me out, please write me email at Wencheng.Zhao@baruchmail.cuny.edu, much appreciated!   
+If you would like to help me out, please write me email at Wencheng.Zhao@baruchmail.cuny.edu, much appreciated!   
 
 # mern-plaid
 
