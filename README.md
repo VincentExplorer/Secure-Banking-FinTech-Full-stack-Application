@@ -1,4 +1,4 @@
-Hello everyone! Welcome to Vincent's school project. 
+Hi everyone! Welcome to Vincent's school project. 
 
 I am currenly looking for full-stack web developer internship or full-time jobs. 
 
