@@ -1,3 +1,4 @@
+#FinTech Full-stack Application | (MERN STACK)
 Hi everyone! Welcome to Vincent's school project. 
 
 A little bit intro of the project:
