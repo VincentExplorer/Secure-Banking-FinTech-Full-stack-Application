@@ -1,8 +1,8 @@
 # FinTech Full-stack Application
 
-## Demo Website
+## Demo App
 
-- 👉: ![Final App](https://i.postimg.cc/tJYRKQPR/mern-Plaid-Final.gif)
+![Final App](https://i.postimg.cc/tJYRKQPR/mern-Plaid-Final.gif)
 
 ## Tech Stack
 
