@@ -2,8 +2,7 @@
 
 ## Demo Website
 
-- 👉 Heroku : [https://newamazona-final.herokuapp.com](https://newamazona-final.herokuapp.com)
-- 👉 AWS : [https://amazona.webacademy.pro](https://amazona.webacademy.pro)
+- 👉: ![Final App](https://i.postimg.cc/tJYRKQPR/mern-Plaid-Final.gif)
 
 ## Tech Stack
 
