@@ -71,3 +71,7 @@ npm run dev
 
 // Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
+
+## Support
+
+- Contact Me: [Vincent](mailto:Wencheng.Zhao21@gmail.com)
