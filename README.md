@@ -74,4 +74,4 @@ npm run dev
 
 ## Support
 
-- Contact Me: [Vincent](mailto:Wencheng.Zhao21@gmail.com)
+- Contact Me: [Vincent Zhao](mailto:Wencheng.Zhao21@gmail.com)
