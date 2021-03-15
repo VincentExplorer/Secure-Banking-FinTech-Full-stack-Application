@@ -1,24 +1,9 @@
 # FinTech Full-stack Application
 
-## Demo App
+## Demo App # mern-plaid
 
 ![Final App](https://i.postimg.cc/tJYRKQPR/mern-Plaid-Final.gif)
 
-## Tech Stack
-
-- HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
-- React: Components, Props, Events, Hooks, Router, Axios
-- Redux: Store, Reducers, Actions
-- Node & Express: Web API, Body Parser, File Upload, JWT
-- MongoDB: Mongoose, Aggregation
-- Development: ESLint, Babel, Git, Github
-- Deployment: AWS, GCP, Azure, Heroku
-
-## Run Locally
-
-# mern-plaid
-
-![Final App](https://i.postimg.cc/tJYRKQPR/mern-Plaid-Final.gif)
 Full-stack banking web app built with [Plaid's API](https://plaid.com) and the MERN stack.
 
 This project uses the following technologies:
