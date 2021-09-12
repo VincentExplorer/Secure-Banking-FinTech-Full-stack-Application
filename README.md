@@ -2,8 +2,6 @@
 
 ## Demo App # mern-plaid
 
-![Final App](https://i.postimg.cc/tJYRKQPR/mern-Plaid-Final.gif)
-
 Full-stack banking web app built with [Plaid's API](https://plaid.com) and the MERN stack.
 
 This project uses the following technologies:
